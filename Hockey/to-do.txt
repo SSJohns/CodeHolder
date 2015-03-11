@@ -1,0 +1,45 @@
+TO DO
+- add scrollbars to right side
+- click season to add all events in season
+
+- Mouse
+	-fix left and right button -- completely consume click if unused
+
+- Players
+	- left mouse button
+		- reordering players
+		- slow double left click on name/number/position to re-enter
+	- right mouse button
+		- delete player
+
+- Events
+	- left mouse button
+		- hold to drag events
+		- slow double click on name to re-enter
+		- fast double click on to open
+		- reordering events	
+
+- Seasons
+	- left mouse button
+		- hold to drag seasons
+		- slow double click to rename season
+	- right mouse button
+		- setting roster for given year		
+		
+- backing up files
+
+- Buttons
+	- return to default header placement
+	- make changes permanent with save button
+	- print current stats
+	- add new season
+- Player Data
+	- fouls
+	- goals
+	- assists (?)
+	- saves (?)
+	- # of things per game
+	- shooting percentage
+	- way to rank players
+- autosaving
+- moving players

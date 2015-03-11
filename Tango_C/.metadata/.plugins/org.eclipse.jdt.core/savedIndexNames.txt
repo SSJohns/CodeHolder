@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+/Users/atstationy/Documents/workspace/Tango_C/.metadata/.plugins/org.eclipse.jdt.core
+3231919626.index
+1049421425.index
+414014366.index
+609409831.index
